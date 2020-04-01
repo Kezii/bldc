@@ -237,7 +237,7 @@
 #define HW_LIM_TEMP_FET			-40.0, 110.0
 
 
-#define HW_DEAD_TIME_NSEC  0.0
+#define HW_DEAD_TIME_NSEC  360.0
 
 
 
